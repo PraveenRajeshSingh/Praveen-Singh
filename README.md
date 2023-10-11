@@ -1,4 +1,5 @@
 ### Hi there 👋
+#I am a passionate developer having keen interest in solving problems and building new apps in Java + Spring Boot framework!
 
 <!--
 **PraveenRajeshSingh/PraveenRajeshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
