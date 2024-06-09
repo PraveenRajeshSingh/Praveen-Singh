@@ -1,4 +1,4 @@
-                                   ## Hi 👋, I,m Praveen Singh
+                                                ## Hi 👋, I,m Praveen Singh
 # I am a passionate developer having keen interest in solving problems and building new apps in Java + Spring Boot framework!
  
    # - 💬 Ask me about Java, Spring Boot, MySQL .
@@ -7,7 +7,6 @@
    # - ⚡ Fun fact I like to learn new things.
    
 
-**PraveenRajeshSingh/PraveenRajeshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Here are some ideas to get you started:
 
