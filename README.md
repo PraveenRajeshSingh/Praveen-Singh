@@ -33,3 +33,12 @@ I am a Software Engineer focused on server-side application development. My work
 PraveenRajeshSingh/PraveenRajeshSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h2>📞 Contact Information</h2>
+
+If you have any questions, feedback, or need assistance with this project, please feel free to reach out to me:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8446204175)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhpraveenrajesh764@gmail.com)
+
+We appreciate your interest in our project and look forward to hearing from you. Happy coding!
