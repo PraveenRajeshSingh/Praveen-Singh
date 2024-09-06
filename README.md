@@ -7,6 +7,7 @@ I am a Software Engineer focused on server-side application development. My work
 
 </p
 
+
   ![](https://komarev.com/ghpvc/?username=PraveenRajeshSingh&color=595CD1)
 
 <p align="center">
